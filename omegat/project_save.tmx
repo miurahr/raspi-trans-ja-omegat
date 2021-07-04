@@ -1,9 +1,1677 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_f90cae6f5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_c22d75e57" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lt;a href="#_" class="lightbox" id="boxLemur"&amp;gt; &amp;lt;h3&amp;gt;Lemur!!&amp;lt;/h3&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" alt="Picture of a lemur" /&amp;gt; &amp;lt;p&amp;gt;A lemur enjoying a little snack&amp;lt;/p&amp;gt; &amp;lt;/a&amp;gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&amp;lt;a href="#_" class="lightbox" id="boxLemur"&amp;gt; &amp;lt;h3&amp;gt;レムル！&amp;lt;/h3&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" alt="Picture of a lemur" /&amp;gt; &amp;lt;p&amp;gt;少しの軽食を楽しむキュウリ&amp;lt;/p&amp;gt; &amp;lt;/a&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lt;a href="#boxLemur"&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" class="mediumPics"&amp;gt; &amp;lt;/a&amp;gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&amp;lt;a href="#boxLemur"&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" class="mediumPics"&amp;gt; &amp;lt;/a&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lt;a href="attractions.html#scFota"&amp;gt; &amp;lt;article class="card "&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" class="tinyPicture"&amp;gt; &amp;lt;h3&amp;gt;Fota Wildlife Park&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Fota Island, County Cork&amp;lt;/p&amp;gt; &amp;lt;/article&amp;gt; &amp;lt;/a&amp;gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020133Z" creationid="miurahr" creationdate="20210704T020133Z">
+        <seg>&amp;lt;a href="attractions.html#scFota"&amp;gt; &amp;lt;article class="card "&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" class="tinyPicture"&amp;gt; &amp;lt;h3&amp;gt;フォタアイランド自然動物公園&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;コーク郡フォタアイランド&amp;lt;/p&amp;gt; &amp;lt;/article&amp;gt; &amp;lt;/a&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lt;article class="card"&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" class="tinyPicture"&amp;gt; &amp;lt;h3&amp;gt;Fota Wildlife Park&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Fota Island, County Cork&amp;lt;/p&amp;gt; &amp;lt;/article&amp;gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T015959Z" creationid="miurahr" creationdate="20210704T015959Z">
+        <seg>&amp;lt;article class="card"&amp;gt; &amp;lt;img src="monkey-2223271_640.jpg" class="tinyPicture"&amp;gt; &amp;lt;h3&amp;gt;フォタアイランド自然動物公園&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;コーク郡フォタアイランド &amp;lt;/p&amp;gt; &amp;lt;/article&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a href="attractions.html#scCliffs" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="cliffs.JPG" class="smallPics"&gt; &lt;h3&gt;The Cliffs of Moher&lt;/h3&gt; &lt;p&gt;County Clare&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scBurren" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="ireland-2191310_640.jpg" class="smallPics"&gt; &lt;h3&gt;The Burren&lt;/h3&gt; &lt;p&gt;County Clare and Galway&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scAchill" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="achill.JPG" class="smallPics"&gt; &lt;h3&gt;Achill Island&lt;/h3&gt; &lt;p&gt;County Mayo&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scFota" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="monkey-2223271_640.jpg" class="smallPics"&gt; &lt;h3&gt;Fota Wildlife Park&lt;/h3&gt; &lt;p&gt;Fota Island, County Cork&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scNewgrange" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="newgrange-332864_640.jpg" class="smallPics"&gt; &lt;h3&gt;Newgrange Passage Tomb&lt;/h3&gt; &lt;p&gt;County Meath&lt;/p&gt; &lt;/article&gt; &lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;a href="attractions.html#scCliffs" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="cliffs.JPG" class="smallPics"&gt; &lt;h3&gt;The Cliffs of Moher&lt;/h3&gt; &lt;p&gt;クレア郡&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scBurren" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="ireland-2191310_640.jpg" class="smallPics"&gt; &lt;h3&gt;バレーン郡&lt;/h3&gt; &lt;p&gt;クレア郡とゴールウェイ&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scAchill" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="achill.JPG" class="smallPics"&gt; &lt;h3&gt;アキル島&lt;/h3&gt; &lt;p&gt;County Mayo&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scFota" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="monkey-2223271_640.jpg" class="smallPics"&gt; &lt;h3&gt;フィタアイランド自然動物公園&lt;/h3&gt; &lt;p&gt;コーク郡のフィタアイランド&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scNewgrange" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="newgrange-332864_640.jpg" class="smallPics"&gt; &lt;h3&gt;Newgrange Passage Tomb&lt;/h3&gt; &lt;p&gt;County Meath&lt;/p&gt; &lt;/article&gt; &lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;code&gt;rgba(0,0,0,0.2)&lt;/code&gt; is another way of defining a colour.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;code&gt;rgba（0,0,0,0.2）&lt;/code&gt; は色を定義する別の方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;figcaption&gt; Tour guide Tito!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;figcaption&gt; ティートツアーガイド!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;h3&gt;Lemur!!&lt;/h3&gt; &lt;img src="monkey-2223271_640.jpg" alt="Picture of a lemur" /&gt; &lt;p&gt;A lemur enjoying a little snack&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;h3&gt;キツネザル!&lt;/h3&gt;&lt;img src="monkey-2223271_640. jpg" alt="Picture of a lemur" /&gt;&lt;p&gt;ちょっとしたおやつを楽しむキツネザル&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A "Full Irish" breakfast consists of sausages, rashers (bacon), eggs, black pudding, white pudding and toast.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ソーセージ、ラッシャー(ベーコン)、玉子、黒プリン、ホワイトプディング、トーストで構成される「完全なアイルランド式」朝食。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A computer capable of accessing &lt;a href="https://trinket.io"&gt;trinket.io&lt;/a&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;a href="https://trinket.io"&gt;trinket.io&lt;/a&gt;{:target="_blank"}ウェブサイトにアクセスできるコンピュータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A duration of &lt;code&gt;0.2s&lt;/code&gt; means the &lt;code&gt;transition&lt;/code&gt; lasts for 0.2 seconds.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;code&gt;0.2秒&lt;/code&gt; 持続時間は、 &lt;code&gt;秒&lt;/code&gt; が0.2秒間続くことを意味する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A narrow tunnel leads to the centre of man-made hill.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>狭いトンネルが人工の丘の中心に通じている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A wildlife conservation park in Fota Island, County Cork</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コーク州フォタ島の野生生物保護公園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Achill Island</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アキル島</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add nice layouts and cool effects to your website!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>素敵なレイアウトとあなたのウェブサイトにクールな効果を追加！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the following CSS code for the lightbox.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ライトボックスに次のCSSコードを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the following CSS code to create the classes &lt;code&gt;card&lt;/code&gt; and &lt;code&gt;tinyPicture&lt;/code&gt;:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>次のCSSコードを追加して、クラス&lt;code&gt;card&lt;/code&gt;および&lt;code&gt;tinyPicture&lt;/code&gt;を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the following CSS properties to the &lt;code&gt;.card&lt;/code&gt; class:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020404Z" creationid="miurahr" creationdate="20210704T020404Z">
+        <seg>次のCSSプロパティを&lt;code&gt;.card&lt;/code&gt;クラスに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the following HTML code to your website, anywhere you like.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ウェブサイトの好きな場所に次のHTMLコードを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All in a row</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>1行に並べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And of course, no breakfast is complete without a lovely pot of tea!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>そしてもちろん、お茶のポットがなければ朝食は完成しません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Another effect you've probably seen on loads of websites is &lt;strong&gt;lightbox&lt;/strong&gt;: you click on something and the website dims while something else, like a bigger picture or a popup box, appears in front of everything.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたがたぶん多くのウェブサイトで見た別の効果は、ライトボックス &lt;strong&gt;ライトボックス&lt;/strong&gt;：何かをクリックするとウェブサイトが暗くなり、大きな写真やポップアップボックスのようなものがすべての目の前に現れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply some neat hover and click effects that you might have seen on other websites</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたが他のウェブサイトで見たかもしれない、きちんとしたホバーとクリックのエフェクトを適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Artist</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アーティスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As you'll be working with lots of code, you may find it easier to use an offline text editor on your computer instead of Trinket.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>多くのコードを使うので、Trinketを使う代わりにコンピュータ上でオフラインテキストエディターを使うほうが簡単な場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attractions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アトラクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attractions in Ireland</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドの観光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bacon and Cabbage</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベーコンとキャベツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bangers and Mash</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バンガーズ・アンド・マッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blank Page</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空白ページ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By setting the left and right margins to &lt;code&gt;auto&lt;/code&gt;, you can make any element be in the middle instead of over to the left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020425Z" creationid="miurahr" creationdate="20210704T020425Z">
+        <seg>左右のマージンを&lt;code&gt;auto&lt;/code&gt;に設定することで、任意のエレメントを左上ではなく中央に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can you work out what some of it does?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたはそれのいくつかを解決することができますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Captions and side notes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>見出しと脚注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Car</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>自動車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chasing Cars</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>追跡車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the links in the menu above to explore!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>上のメニューのリンクをクリックすると、詳細が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clickable cards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クリックできるカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create any website layout you want</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>必要なウェブサイトレイアウトを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decide what things you want to appear when you click, and add them all to your page in between a set of &lt;code&gt;a&lt;/code&gt; tags to make a link.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クリックしたときに表示するものを決め、リンクを作成するために&lt;/code&gt; タグ &lt;code&gt;セットの間にすべてをページに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Design cool page layouts</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クールなページレイアウトを設計する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag the edge of the browser window to make the page narrower and wider — notice that the cards stay centered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020537Z" creationid="miurahr" creationdate="20210704T020537Z">
+        <seg>ブラウザウィンドウの端をドラッグしてページ幅を調整します。— 必ずカードが中央にあることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dublin Zoo</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダブリン動物園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dublin is the capital city of Ireland.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダブリンはアイルランドの首都です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Epic Ireland</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>エピック・アイルランド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feel free to change the link &lt;strong&gt;URL&lt;/strong&gt; to whatever you want to link to.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;strong&gt;URL&lt;/strong&gt;のリンク先は自由に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally add the following CSS code.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最後に、次のCSSコードを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, make the movement smooth by adding the following property to the &lt;code&gt;.card&lt;/code&gt; class from earlier:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最後に、以前の &lt;code&gt;.card&lt;/code&gt; クラスに次のプロパティを追加して、動きを円滑にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the &lt;code&gt;.card:hover&lt;/code&gt; CSS class from earlier and change it to the following:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>以前の &lt;code&gt;.card：hover&lt;/code&gt; CSSクラスを見つけて、次のように変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First, type the URL of the page to link to, followed by &lt;code&gt;#&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>まず、リンク先のページのURLを入力し、次に&lt;code&gt;#&lt;/code&gt;を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First, you'll see how to get stuff centered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020354Z" creationid="miurahr" creationdate="20210704T020354Z">
+        <seg>まず、中央に配置する方法を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Food</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>食品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Food in Ireland</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドの食品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For each one, you need to make something on your webpage into a link that you can click to make the lightbox appear, and then use the &lt;code&gt;id&lt;/code&gt; as the &lt;code&gt;href&lt;/code&gt; value in that link, just as you've done above!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>それぞれについては、ウェブページ上の何かをクリックしてライトボックスを表示させるリンクにしてから、上記のように &lt;code&gt;id&lt;/code&gt; を &lt;code&gt;href&lt;/code&gt; 値として使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you can use the one that you made in the &lt;a href="https://projects.raspberrypi.org/en/projects/cd-intermediate-html-css-sushi"&gt;HTML/CSS Intermediate Sushi Card series&lt;/a&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>例えば、 &lt;a href="https://projects.raspberrypi.org/en/projects/cd-intermediate-html-css-sushi"&gt;HTML/CSS Intermediate Sushi Card series&lt;/a&gt;{:target="_blank"}シリーズで作成したものを使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fota Wildlife Park</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フォタアイランド自然動物公園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting around</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting set up</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting setup</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>はじめに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Guide to my country 3.0</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>私の国の案内 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hardware</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハードウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are some of the things to see there:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ここでは、いくつかの点について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here is a small selection!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ささやかなセレクション!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you see that you can also use the property on its own within a regular CSS block.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ここでは、通常のCSSブロック内でプロパティを単独で使用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here's a technique you could use to make a photo gallery, or a portfolio page showing off your projects: little &lt;strong&gt;preview cards&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フォトギャラリーを作るため、またはプロジェクトを披露するために使うことのできるテクニックがあります: 小さな&lt;strong&gt;プレビューカード&lt;/strong&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here's the CSS code to put in your style sheet:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020202Z" creationid="miurahr" creationdate="20210704T020202Z">
+        <seg>次に、スタイルシートに挿入するCSSコードを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I couldn't possibly make a list of Irish food without including this very traditional dish!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このとても伝統的な料理を含めなければ、私はアイルランドの食べ物のリストを作ることません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I love to smother the potatoes in butter, and I also like a little mustard with the bacon.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジャガイモをバターでくすぶるのが好きで、ベーコンにからしを少しつけるのも好きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm doing mine on &lt;code&gt;index.html&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>私は&lt;code&gt;index.html&lt;/code&gt;を使っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm going to do a bunch of highlights of the tourist attractions in Ireland.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドの観光名所のハイライトをたくさんやるつもりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm going to do mine on the Attractions page of my website.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>私は私のウェブサイトのアトラクションページで私のことをするつもりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've got a big picture, a heading, and some text.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>私は大きな絵、見出し、テキストを持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so, you can fix it by adding a &lt;strong&gt;CSS class&lt;/strong&gt; to the link: &lt;code&gt;class="cardLink"&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020159Z" creationid="miurahr" creationdate="20210704T020159Z">
+        <seg>その場合は、&lt;strong&gt;CSSクラス&lt;/strong&gt;をリンク&lt;code&gt;class="cardLink"&lt;/code&gt;に追加することで修正できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are any leftovers you can make another one of my favourites: &lt;strong&gt;fried cabbage&lt;/strong&gt;!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>残り物があれば、私のお気に入りの&lt;strong&gt;キャベツ炒め&lt;/strong&gt;を作ってもOK!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are working from my example website, you could do one for each of the sections on the Attractions page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020320Z" creationid="miurahr" creationdate="20210704T020320Z">
+        <seg>私のサンプルWebサイトから作業している場合は、「アトラクション」ページの各セクションに対して1つずつ行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you completed the Intermediate HTML/CSS Sushi Cards, you may remember using the &lt;code&gt;transform&lt;/code&gt; property in some &lt;code&gt;@keyframes&lt;/code&gt; animations.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>中級のHTML / CSS寿司カードを完成した場合、 &lt;code&gt;@keyframes&lt;/code&gt; アニメーションで &lt;code&gt;トランスフォーム&lt;/code&gt; プロパティを使用することを覚えているかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you prefer, you can work with &lt;a href="http://dojo.soy/html3-website-start"&gt;this trinket&lt;/a&gt;{:target="_blank"}, which is ready to use.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>必要に応じて、&lt;a href="http://dojo.soy/html3-website-start"&gt;trinket&lt;/a&gt;{:target="_blank"}を使って作業することもできます。 これはすぐに使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image and text before styles are applied</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スタイルを適用する前のイメージとテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image and text with styling to create a small card effect</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>小さなカード効果を作成するためのスタイル設定を含むイメージとテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the code file for the page you are linking to, find the part you want to jump to and give that element an &lt;code&gt;id&lt;/code&gt;, for example, &lt;code&gt;&amp;lt;section id="scFota"&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リンク先のページのコードファイルで、ジャンプ先の部分を見つけ、その要素に&lt;code&gt;id&lt;/code&gt;を付けます。たとえば、&lt;code&gt;&amp;lt;section id="scFota"&lt;/code&gt;のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In these Sushi Cards, you will find out how to:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これらの寿司カードでは、以下の方法を見つけることができます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>前書き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Irish Artists</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドの芸術家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Irish Food</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランド料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It has a wild and beautiful landscape of mountains, bogs and cliffs.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>山や沼、崖などの自然豊かな景観が美しい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a decimal number between &lt;code&gt;0&lt;/code&gt; and &lt;code&gt;1&lt;/code&gt;, with &lt;code&gt;1&lt;/code&gt; being not see-through at all, and &lt;code&gt;0&lt;/code&gt; being completely invisible.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>それは &lt;code&gt;0&lt;/code&gt; と &lt;code&gt;1&lt;/code&gt;間の10進数であり、 &lt;code&gt;1&lt;/code&gt; はシースルーではなく、 &lt;code&gt;0&lt;/code&gt; は完全に不可視である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It might not sound very interesting, but this hearty meal of boiled ham, potatoes and green cabbage is tasty and filling.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あまり面白そうではないかもしれませんが、ハムやジャガイモ、キャベツを煮込んだボリュームたっぷりのこの料理は、おいしくて食べごたえがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It was formed by glaciers moving along the landscape, carving out paths in the soft rock.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>氷河がソフトロックに沿って移動して道を切り開き、形成されてきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's got the usual three numbers (from &lt;code&gt;0&lt;/code&gt; up to &lt;code&gt;255&lt;/code&gt;) for red, green, and blue.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>赤、緑、青の3つの数字（ &lt;code&gt;0&lt;/code&gt; から &lt;code&gt;255&lt;/code&gt;）があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let's add a little movement when you hover your cursor over the cards you made earlier.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたが前に作ったカードの上にカーソルを置いたときに少し動きを加えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let's turn the whole preview card into a link so people can click to see more information.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>プレビューカード全体をリンクにして、ユーザーがクリックして詳細情報を表示できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lightbox</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ライトボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lightbox effect in action</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ライトボックス効果の実際の効果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linger</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リンガー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a collage of overlapping pictures and text</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>重なった写真とテキストのコラージュを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make at least four or five of these cards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020239Z" creationid="miurahr" creationdate="20210704T020239Z">
+        <seg>これらのカードを少なくとも4枚または5枚作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the closing &lt;code&gt;&amp;lt;/a&amp;gt;&lt;/code&gt; tag is after the closing &lt;code&gt;&amp;lt;/article&amp;gt;&lt;/code&gt; tag!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>終了タグ&lt;code&gt;&amp;lt;/a&amp;gt;&lt;/code&gt;が終了タグ&lt;code&gt;&amp;lt;/article&amp;gt;&lt;/code&gt;の後にあることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you give the link an &lt;code&gt;id&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リンクに &lt;code&gt;ID&lt;/code&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make your layout adjust itself automatically to different screen sizes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レイアウトを異なる画面サイズに自動的に調整する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make your menu responsive</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メニューをレスポンシブにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maybe you just want a picture and no text!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>たぶんあなたはただの写真とテキストがほしいと思うかもしれません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most countries have their own way of making sausages, and they are one thing I miss from home if I'm away travelling!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ほとんどの国には独自のソーセージの作り方がありますが、それは私が旅行に出かけているときに家から懐かしくなるものです!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move your mouse cursor around in the window below to try out some of the effects you'll learn how to use on your website:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>下のウィンドウでマウスカーソルを動かすと、ウェブサイトでの使い方を学ぶエフェクトのいくつかが試されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>音楽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Music in Ireland</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドの音楽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My favourite places to see in Ireland</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドで一番見たい場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My mum always made it extra special by cooking the cabbage in the water that the ham was boiled in.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>母はいつもハムを茹でたお湯でキャベツを茹でて特別に作ってくれました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My website is about Ireland.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>私のウェブサイトはアイルランドについてです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newgrange</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ニューガスレンジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newgrange is famous for its &lt;strong&gt;passage tomb&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ニューガスレンジは、その &lt;strong&gt;passage tomb&lt;/strong&gt;で有名です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next, decide what thing you want to click to make the lightbox appear, and add add a pair of &lt;code&gt;a&lt;/code&gt; tags around that element (in my case it's a smaller picture of a lemur).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>次に、ライトボックスを表示させるために何をクリックするかを決め、その要素の周りに &lt;code&gt;の&lt;/code&gt; タグのペアを追加します（私の場合、それはキツネの小さな絵です）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that this is a &lt;strong&gt;pseudo-class&lt;/strong&gt;; it should go after the code for the &lt;code&gt;.lightbox&lt;/code&gt; class and not inside it!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これは &lt;strong&gt;疑似クラス&lt;/strong&gt;あることに注意してください。 &lt;code&gt;.lightbox&lt;/code&gt; クラスのコードの後に​​置かなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: Setting the &lt;code&gt;position&lt;/code&gt; property to &lt;code&gt;fixed&lt;/code&gt; means the position you set will be relative to the browser window, so it will stay put when you scroll.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>注： &lt;code&gt;position&lt;/code&gt; プロパティを &lt;code&gt;fixed&lt;/code&gt; 設定すると、設定した位置はブラウザウィンドウとの相対的なものになるため、スクロールするときはそのまま残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notice how the value of &lt;code&gt;href&lt;/code&gt; in my link ends in &lt;code&gt;#scFota&lt;/code&gt;?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リンク内の&lt;code&gt;href&lt;/code&gt;の値が&lt;code&gt;#scFota&lt;/code&gt;で終わることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now that the whole preview card is a link, the text font may have changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020142Z" creationid="miurahr" creationdate="20210704T020142Z">
+        <seg>プレビューカード全体がリンクになったので、テキストフォントが変更された可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Often there will be a grilled tomato as well as mushrooms, and baked beans.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トマトのグリルやキノコ、ベイクドビーンズなどもよくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On one morning every year, at the Winter Solstice, the rising sun lights up the tunnel all the way to the chamber in the middle.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>毎年、ある朝、冬至になると、日が昇って真中の部屋までトンネルを照らします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the next Sushi Card, you'll learn how to arrange the cards with a cool trick!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020326Z" creationid="miurahr" creationdate="20210704T020326Z">
+        <seg>次のお寿司カードでは、あなたはクールなトリックでカードの並べ方を学びます!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this card you will learn some tricks for arranging things &lt;strong&gt;horizontally&lt;/strong&gt; on a page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020350Z" creationid="miurahr" creationdate="20210704T020350Z">
+        <seg>このカードでは、ページ上で物を&lt;strong&gt;横&lt;/strong&gt;に並べるためのコツを学ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this card you'll learn a few more nice effects that you can achieve with CSS.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このカードでは、CSSで達成できるいくつかの素晴らしい効果を学びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One kind of value you can set it to is &lt;code&gt;rotate&lt;/code&gt;, to make an element turn.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたがあるためにそれを設定することができます値の一種 &lt;code&gt;回転&lt;/code&gt;要素のターンを作るために、。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Others are &lt;code&gt;translateY&lt;/code&gt;, which moves something up or down, and &lt;code&gt;translateX&lt;/code&gt;, for movement from side to side.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>その他は &lt;code&gt;移動Y&lt;/code&gt;上下何かを移動し、そして &lt;code&gt;移動X&lt;/code&gt;左右に移動するため、。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Photo collage</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フォトコラージュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the whole &lt;code&gt;article&lt;/code&gt; element inside a link element.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;code&gt;article&lt;/code&gt;要素全体をlink要素内に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places to Visit in Dublin</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダブリンの観光地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Play about with different pixel values in the &lt;code&gt;box-shadow&lt;/code&gt; property to see what they do.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>異なる画素値を用いて約プレイ &lt;code&gt;ボックスシャドウ&lt;/code&gt; 彼らが何を参照してくださいプロパティ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preview card showing an image thumbnail and some text</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像のサムネイルとテキストを表示するプレビューカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the value of any property to &lt;code&gt;inherit&lt;/code&gt; makes it use the value that the &lt;strong&gt;parent&lt;/strong&gt; element has.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020232Z" creationid="miurahr" creationdate="20210704T020232Z">
+        <seg>プロパティの値を&lt;code&gt;inherit&lt;/code&gt;に設定すると、&lt;strong&gt;parent&lt;/strong&gt;要素の値が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shadows and movement</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>影と動き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sinead O'Connor</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シネイド・オコナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snow Patrol</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スノウ・パトロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So in this case, the text colour will match the rest of the text on the homepage.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020236Z" creationid="miurahr" creationdate="20210704T020236Z">
+        <seg>この場合、テキストの色はホームページ上のテキストの残りの部分と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So when you click anywhere, the &lt;code&gt;visibility&lt;/code&gt; will be set back to &lt;code&gt;hidden&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>だから、どこかをクリックすると、 &lt;code&gt;可視性&lt;/code&gt; は &lt;code&gt;隠された&lt;/code&gt;戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Software</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Somebody important was buried there thousands of years ago and the people made this tomb for them.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>何1000年も前に大切な人がそこに埋葬され、人々は彼らのためにこの墓を作った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Song</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>曲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Special effects</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>特殊効果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text and picture that has been turned into a link</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リンクに変換されたテキストと画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That could be another page on your website, or it could be another website entirely.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>それはあなたのウェブサイトの別のページかもしれないし、完全に別のウェブサイトかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;code&gt;:target&lt;/code&gt; pseudo-class gets applied whenever the lightbox was the target of the last link clicked.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;code&gt;：ターゲット&lt;/code&gt; 擬似クラスは、ライトボックスがクリックされた最後のリンクのターゲットであった場合に適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;strong&gt;target&lt;/strong&gt; of the link will be the lightbox, which you set using the &lt;code&gt;id&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リンクの &lt;strong&gt;ターゲット&lt;/strong&gt; はライトボックスになり、 &lt;code&gt;id&lt;/code&gt;を使用して設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Boys Are Back In Town</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ボーイズ・ア・バック・イン・タウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Burren</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バーレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Burren has its own special wildlife and plant life due to having a climate that's different from the rest of Ireland.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バレンには、アイルランドの他の地域とは異なる気候のため、独自の特別な野生生物や植物が生息しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Burren is an area in County Clare and Galway covered in unusual limestone rock formations.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>BurrenはClareとゴールウェイにある地域で,珍しい石灰岩層に覆われている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Cliffs of Moher</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モハーの断崖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Cliffs of Moher are found in County Clare, where I am from.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モハーの断崖は私の出身地クレア郡にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Cranberries</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クランベリーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cards appear in the middle instead of over to the left</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020428Z" creationid="miurahr" creationdate="20210704T020428Z">
+        <seg>カードは左側ではなく中央に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ceiling and walls are made entirely of flat pieces of rock stacked on top of each other.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>天井と壁は、すべて平らな岩片が積み重ねられてできています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The code can go anywhere on the page: you will be making the elements invisible in the next step!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コードはページのどこにでも置くことができます。次のステップで要素を非表示にします！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to get around outside of the cities is by car.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>都市の外を移動する最も簡単な方法は車です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The fourth number, called the &lt;strong&gt;alpha&lt;/strong&gt; value, defines how &lt;strong&gt;transparent&lt;/strong&gt; (or see-through) something is.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;strong&gt;アルファ&lt;/strong&gt; 値と呼ばれる4番目の数字は、 &lt;strong&gt;透明な&lt;/strong&gt; （またはシースルー）がどのようにあるかを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The value of the &lt;code&gt;id&lt;/code&gt; is what you type after the &lt;code&gt;#&lt;/code&gt; in your link.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;code&gt;id&lt;/code&gt;の値は、リンクの&lt;code&gt;#&lt;/code&gt;の後に入力する値です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The weather in Ireland is &lt;span class="specialText"&gt;very unpredictable!&lt;/span&gt; It's best to &lt;span class="specialText"&gt;be prepared&lt;/span&gt; for any kind of weather, even if it's a nice day!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドの天候は&lt;span class="specialText"&gt;非常に予測不可能です!&lt;/span&gt;どんな天候でも、天気が良い日でも&lt;span class="specialText"&gt;準備&lt;/span&gt;するのが一番です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then you'll arrange elements side by side in a row.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020359Z" creationid="miurahr" creationdate="20210704T020359Z">
+        <seg>次に、要素を一列に並べて配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are lots of places to go and see in Ireland.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイルランドには見るべき場所がたくさんある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many buses that do tours to popular locations and tourist attractions.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>人気のある場所や観光地を巡るツアーをしているバスがたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These Sushi Cards will show you how to make a website look polished and professional using cool effects and layouts.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これらの寿司カードは、クールなエフェクトやレイアウトを使ってウェブサイトを洗練されたものにする方法を示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are just a few famous tracks by Irish people over the years</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これらはアイルランドの人々が長年にわたってきいてきた音楽です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are some of my favourite Irish foods!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>私の大好きなアイルランド料理です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are well worth a visit - look how cool they are!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>必ず訪れたほうがいいです - なんて素敵な場所でしょう!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can all use the same CSS class — just make sure each one has a different &lt;code&gt;id&lt;/code&gt;!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>彼らはすべて同じCSSクラスを使うことができます - それぞれが異なる &lt;code&gt;id&lt;/code&gt;持っていることを確認してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thin Lizzy</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シン・リジィ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This classic of sausages, mashed potato and gravy is not unique to Ireland, but what makes it special is the Irish sausages.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このソーセージ、マッシュポテト、グレービーソースのクラシックな朝食はアイルランド特有の組みあわせではないが、独特なのはアイルランドのソーセージです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a large island off the coast of County Mayo.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これはマヨ郡沖の大きな島です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a neat trick you can use to jump to a particular part of a page.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これは、ページの特定の部分にジャンプするために便利な機能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is like a zoo with a difference.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>まるでちょっと違う動物園のようですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means the lower the alpha value of an element, the more see-through it is.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これは、要素のアルファ値が低いほど、シースルーが多くなることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This project can be completed in a web browser using &lt;a href="https://trinket.io"&gt;trinket.io&lt;/a&gt;{:target="_blank"} or offline using a plain text editor.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このプロジェクトは&lt;a href="https://trinket.io"&gt;trinket.io&lt;/a&gt;{:target="_blank"}を使ってウェブブラウザ上で行うか、プレーンテキストエディタを使ってオフラインで行うこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tito the dog</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ティート犬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To get this effect you will make two links: one for the actual lightbox (the bit that pops up), and one for the thing that you click to make the lightbox appear.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この効果を得るには、実際のライトボックス（ポップアップするビット）とライトボックスを表示するためにクリックしたものの2つのリンクを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make it go away, just click anywhere on the page.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>遠ざけるには、ページのどこかをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To work through these Sushi Cards, you'll need to start with a website that you already made.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>寿司カードを使うには、すでに作成されたウェブサイトから始める必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tour guide Tito!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ツアーガイドのティート!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional Irish Breakfast</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>伝統的なアイルランドの朝食</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Train and bus</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>電車とバス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try clicking your new link to see the lightbox appear!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>新しいリンクをクリックして、ライトボックスが表示されることを確認してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try out different values in the &lt;code&gt;translate&lt;/code&gt; function!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;code&gt;translate&lt;/code&gt; 関数で異なる値を試してみてください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visit the &lt;a href="https://en.wikipedia.org/wiki/Ireland"&gt;Wikipedia page&lt;/a&gt; to learn even more about Ireland!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>https://en.wikipedia.org/wiki/Irelandの詳細については、&lt;a href="Ireland"&gt;Wikipedia&lt;/a&gt;をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wax Museum</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>蝋人形館</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weather</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>天候</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ようこそ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What you will make</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>作るもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What you will need</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Year</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>発表年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many lightboxes as you want to a page.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ライトボックスは、ページに必要なだけ追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the picture and text to suit your own preview cards.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>独自のプレビューカードに合わせて、画像とテキストを変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can download code from Trinket by selecting &lt;strong&gt;Download&lt;/strong&gt; from the &lt;strong&gt;Share&lt;/strong&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;strong&gt;Share&lt;/strong&gt;メニューにある&lt;strong&gt;Download&lt;/strong&gt;を選択して、Trinketからコードをダウンロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get to most of the major towns by train from Dublin.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダブリンから電車でほとんどの主要な町に行くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can put anything you like in between the link tags.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リンクタグの間に好きなものを置くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can see flowers there that don't grow anywhere else in the countryside.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地方にはない花を見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can walk for miles along limestone pavements: large flat rocks separated by deep crevasses.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>石灰岩の舗装道路に沿って何マイルも歩くことができる。それは、深いクレバスで刻まれた大きな平坦な岩だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You go with whatever page you have pictures on!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたはあなたが写真を持っているどのページでも一緒に行く！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You might recognise this technique from earlier!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>早くからこのテクニックを認識するかもしれません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must not pick them, because the landscape is protected.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>景観が守られているので、摘み取ってはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should see the cards move to the center of the page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020418Z" creationid="miurahr" creationdate="20210704T020418Z">
+        <seg>カードがページの中央に移動していることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You walk along paths that go through fields of giraffes, you might see a lemur hanging out in a nearby tree as you pass by a flock of penguins.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キリンの畑を通る道を歩くと、近くの木にキツネザルがぶら下がっていて、ペンギンの群れが通り過ぎるのが見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>margin-left: auto; margin-right: auto;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020405Z" creationid="miurahr" creationdate="20210704T020405Z">
+        <seg>margin-left: auto; margin-right: auto;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: How does it work?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>title: どのように機能しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: Linking to a specific part of a page</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>title: ページの特定の部分へのリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: Resetting styles</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>title: スタイルをリセットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: The &lt;code&gt;transform&lt;/code&gt; property</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>title: &lt;code&gt;変換&lt;/code&gt; プロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: What you will learn</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>title: あなたが学ぶこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: What you will need</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>title: 必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: What's &lt;code&gt;rgba&lt;/code&gt;?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>title: &lt;code&gt;rgba&lt;/code&gt;とは何ですか？</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">RPF - Project (Web development) - Guide to my country 3.0.xliff</prop>
+      <prop type="id">264234_0</prop>
+      <tuv lang="en">
+        <seg>Make your menu responsive</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メニューの応答性を高める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RPF - Project (Web development) - Guide to my country 3.0.xliff</prop>
+      <prop type="id">37081_0</prop>
+      <tuv lang="en">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>はじめに</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
