@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_c22d75e57" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_35002757a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1258,6 +1258,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>毎年、ある朝、冬至になると、日が昇って真中の部屋までトンネルを照らします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the line above the code, add the opening tag &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142338Z" creationid="miurahr" creationdate="20210704T142252Z">
+        <seg>😄On the line above the code, add the opening tag &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;.</seg>
       </tuv>
     </tu>
     <tu>
