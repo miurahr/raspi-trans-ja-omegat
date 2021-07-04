@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;lt;aside class="sideNoteStyle"&amp;gt; &amp;lt;h2&amp;gt;Getting around&amp;lt;/h2&amp;gt; &amp;lt;h3&amp;gt;Train and bus&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;You can get to most of the major towns by train from Dublin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T143023Z" creationid="miurahr" creationdate="20210704T143023Z">
+        <seg>&amp;lt;aside class="sideNoteStyle"&amp;gt; &amp;lt;h2&amp;gt;Getting around&amp;lt;/h2&amp;gt; &amp;lt;h3&amp;gt;Train and bus&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;You can get to most of the major towns by train from Dublin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;lt;img id="titoPicture" class="solidRoundBorders" src="tito.png" alt="Tito the dog" /&amp;gt; &amp;lt;p&amp;gt; Tour guide Tito!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T023941Z" creationid="miurahr" creationdate="20210704T023941Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T021100Z" creationid="miurahr" creationdate="20210704T021100Z">
         <seg>&lt;strong&gt;&lt;code&gt;flex&lt;/code&gt;&lt;/strong&gt;は非常に強力なレイアウトツールで、Sushi Cardシリーズ全体を埋め尽くすことができます。詳細については&lt;a href="dojo3-flex"&gt;http://dojo.soy/html.soy/html3-flex&lt;/a&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;strong&gt;Outside&lt;/strong&gt; of the &lt;code&gt;article&lt;/code&gt; element, add one or more pairs of &lt;code&gt;&amp;lt;aside&amp;gt; &amp;lt;/aside&amp;gt;&lt;/code&gt; tags containing your extra stuff.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T143002Z" creationid="miurahr" creationdate="20210704T143002Z">
+        <seg>&lt;code&gt;article&lt;/code&gt;要素の&lt;strong&gt;Outside&lt;/strong&gt;には、余分なものを含む&lt;code&gt;&amp;lt;aside&amp;gt;&amp;lt;/aside&amp;gt;&lt;/code&gt;タグのペアを1つ以上追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to a page of your website that has an &lt;code&gt;article&lt;/code&gt; element on it — I'm using &lt;code&gt;attractions.html&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142948Z" creationid="miurahr" creationdate="20210704T142948Z">
+        <seg>&lt;code&gt;article&lt;/code&gt;要素があるWebサイトのページに移動します。私は&lt;code&gt;attracts.html&lt;/code&gt;を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grouping them together logically also helps to maintain good structure in your website code.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T024157Z" creationid="miurahr" creationdate="20210704T024157Z">
@@ -706,6 +730,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>ジャガイモをバターでくすぶるのが好きで、ベーコンにからしを少しつけるのも好きです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I want to add some notes about weather and how to get around.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142757Z" creationid="miurahr" creationdate="20210704T142757Z">
+        <seg>天気や移動方法についていくつかメモを付けたいと思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm adding the following rules to remove the extra spacing that was added by the new container:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142656Z" creationid="miurahr" creationdate="20210704T142656Z">
+        <seg>新しいコンテナによって追加された余分なスペースを削除するために、次の規則を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,8 +1304,8 @@
       <tuv lang="en">
         <seg>On the line above the code, add the opening tag &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210704T142338Z" creationid="miurahr" creationdate="20210704T142252Z">
-        <seg>😄On the line above the code, add the opening tag &lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142649Z" creationid="miurahr" creationdate="20210704T142252Z">
+        <seg>コードの上の行に、開始タグ&lt;code&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Side notes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142720Z" creationid="miurahr" creationdate="20210704T142720Z">
+        <seg>サイド・ノート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since more and more people browse the internet on their smartphones or tablets rather than on a computer, it's good practise to develop your website with this in mind.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T023431Z" creationid="miurahr" creationdate="20210704T023431Z">
@@ -1518,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That information doesn't really belong in the &lt;code&gt;article&lt;/code&gt; element with all the attractions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142811Z" creationid="miurahr" creationdate="20210704T142811Z">
+        <seg>その情報は、すべてのアトラクションを含む&lt;code&gt;article&lt;/code&gt;要素に本当に属しているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;code&gt;:target&lt;/code&gt; pseudo-class gets applied whenever the lightbox was the target of the last link clicked.</seg>
       </tuv>
       <tuv lang="ja">
@@ -1546,6 +1602,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>リンクの &lt;strong&gt;ターゲット&lt;/strong&gt; はライトボックスになり、 &lt;code&gt;id&lt;/code&gt;を使用して設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Attractions page on my website is a list of places to visit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142745Z" creationid="miurahr" creationdate="20210704T142745Z">
+        <seg>私のウェブサイトのアトラクションのページは、訪れるべき場所のリストです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1906,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>これは、ページの特定の部分にジャンプするために便利な機能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an example of when you might use the &lt;code&gt;aside&lt;/code&gt; element.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T142939Z" creationid="miurahr" creationdate="20210704T142939Z">
+        <seg>これは、&lt;code&gt;aside&lt;/code&gt;要素を使用する場合の例です。</seg>
       </tuv>
     </tu>
     <tu>
