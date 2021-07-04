@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;lt;img id="titoPicture" class="solidRoundBorders" src="tito.png" alt="Tito the dog" /&amp;gt; &amp;lt;p&amp;gt; Tour guide Tito!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023941Z" creationid="miurahr" creationdate="20210704T023941Z">
+        <seg>&amp;lt;img id="titoPicture" class="solidRoundBorders" src="tito.png" alt="Tito the dog" /&amp;gt; &amp;lt;p&amp;gt; Tour guide Tito!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.cardContainer { display: flex; flex-wrap: wrap; justify-content: space-around; padding: 10px; }</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020840Z" creationid="miurahr" creationdate="20210704T020840Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T021100Z" creationid="miurahr" creationdate="20210704T021100Z">
         <seg>&lt;strong&gt;&lt;code&gt;flex&lt;/code&gt;&lt;/strong&gt;は非常に強力なレイアウトツールで、Sushi Cardシリーズ全体を埋め尽くすことができます。詳細については&lt;a href="dojo3-flex"&gt;http://dojo.soy/html.soy/html3-flex&lt;/a&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>@media all and (min-width: 1000px) { nav ul { flex-direction: row; justify-content: space-around; } }</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023436Z" creationid="miurahr" creationdate="20210704T023436Z">
+        <seg>@media all and (min-width: 1000px) { nav ul { flex-direction: row; justify-content: space-around; } }</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can you add another block for screens bigger than &lt;strong&gt;1600 pixels&lt;/strong&gt;, with &lt;code&gt;flex-end&lt;/code&gt; instead of &lt;code&gt;space-around&lt;/code&gt;?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023808Z" creationid="miurahr" creationdate="20210704T023808Z">
+        <seg>&lt;strong&gt;1600ピクセル&lt;/strong&gt;より大きい画面には、&lt;code&gt;space-around&lt;/code&gt;ではなく&lt;code&gt;flex-end&lt;/code&gt;を使用して、別のブロックを追加できますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can you work out what some of it does?</seg>
       </tuv>
       <tuv lang="ja">
@@ -330,6 +354,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020910Z" creationid="miurahr" creationdate="20210704T020910Z">
         <seg>自動幅で並べて配置されたカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Challenge: make your menu adjust itself for big screens</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023736Z" creationid="miurahr" creationdate="20210704T023736Z">
+        <seg>Challenge: 大きな画面に合わせてメニューを調整する</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find an &lt;code&gt;img&lt;/code&gt; element where you have text above or below that goes with the picture.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023923Z" creationid="miurahr" creationdate="20210704T023923Z">
+        <seg>&lt;code&gt;img&lt;/code&gt;要素を検索します。この要素の上または下には、図と一致するテキストがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find the &lt;code&gt;.card:hover&lt;/code&gt; CSS class from earlier and change it to the following:</seg>
       </tuv>
       <tuv lang="ja">
@@ -554,6 +594,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>はじめに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grouping them together logically also helps to maintain good structure in your website code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024157Z" creationid="miurahr" creationdate="20210704T024157Z">
+        <seg>それらを論理的にグループ化することは、Webサイトのコードの構造を維持するのにも役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm working with the Tito picture on &lt;code&gt;index.html&lt;/code&gt;, but you can go with whatever is on your website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023938Z" creationid="miurahr" creationdate="20210704T023938Z">
+        <seg>私は&lt;code&gt;index.html&lt;/code&gt;でティートの画像を扱っていますが、あなたのウェブサイトにあるものなら何でも構いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've got a big picture, a heading, and some text.</seg>
       </tuv>
       <tuv lang="ja">
@@ -678,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the window is &lt;strong&gt;1000 pixels&lt;/strong&gt; wide or more, it will apply all the style rules inside the block.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023657Z" creationid="miurahr" creationdate="20210704T023657Z">
+        <seg>ウィンドウの幅が&lt;strong&gt;1000ピクセル&lt;/strong&gt;以上の場合は、ブロック内のすべてのスタイルルールが適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are any leftovers you can make another one of my favourites: &lt;strong&gt;fried cabbage&lt;/strong&gt;!</seg>
       </tuv>
       <tuv lang="ja">
@@ -690,6 +754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T021622Z" creationid="miurahr" creationdate="20210704T021622Z">
         <seg>メニューにCSSルールがすでに定義されている場合は、不足している以下のプロパティと値を追加または変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are using Trinket to write code, it might be helpful to download the project so you can test it out on a full-size screen.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023723Z" creationid="miurahr" creationdate="20210704T023723Z">
+        <seg>Trinketを使ってコードを書いている場合は、プロジェクトをダウンロードして、フルサイズの画面でテストできるようにしておくと便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can go either above the &lt;code&gt;img&lt;/code&gt; element or below it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024010Z" creationid="miurahr" creationdate="20210704T024010Z">
+        <seg>&lt;code&gt;img&lt;/code&gt;要素の上または下のいずれかに移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It has a wild and beautiful landscape of mountains, bogs and cliffs.</seg>
       </tuv>
       <tuv lang="ja">
@@ -842,6 +922,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020831Z" creationid="miurahr" creationdate="20210704T020831Z">
         <seg>&lt;code&gt;article&lt;/code&gt;や&lt;code&gt;section&lt;/code&gt;ではなく、&lt;code&gt;div&lt;/code&gt;と呼ばれるものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It’ll be especially useful when you do CSS grid layouts later!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023846Z" creationid="miurahr" creationdate="20210704T023846Z">
+        <seg>これは、後でCSSグリッドレイアウトを行う場合に特に便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,10 +1038,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items spaced evenly across one line on a wider screen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023659Z" creationid="miurahr" creationdate="20210704T023659Z">
+        <seg>広い画面上の1行に均等に配置されたメニュー項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu items stacked vertically on a small screen</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T021709Z" creationid="miurahr" creationdate="20210704T021709Z">
         <seg>小さな画面に縦に並んだメニュー項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items to the right on a wide screen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023811Z" creationid="miurahr" creationdate="20210704T023811Z">
+        <seg>ワイド画面右側のメニュー項目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next, remove the &lt;code&gt;p&lt;/code&gt; tags, or whatever tags you have around the text (maybe it's a heading, like &lt;code&gt;h2&lt;/code&gt;?), and put the text in between &lt;code&gt;&amp;lt;figcaption&amp;gt; &amp;lt;/figcaption&amp;gt;&lt;/code&gt; tags instead.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024001Z" creationid="miurahr" creationdate="20210704T024001Z">
+        <seg>次に、&lt;code&gt;p&lt;/code&gt;タグ、またはテキストの周囲にあるタグ(&lt;code&gt;h2&lt;/code&gt;?のような見出しの場合もあります)を削除し、代わりに&lt;code&gt;&amp;lt;figcaption&amp;gt;&amp;lt;/figcaption&amp;gt;&lt;/code&gt;タグの間にテキストを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that this is a &lt;strong&gt;pseudo-class&lt;/strong&gt;; it should go after the code for the &lt;code&gt;.lightbox&lt;/code&gt; class and not inside it!</seg>
       </tuv>
       <tuv lang="ja">
@@ -1086,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Now add the following code to your style sheet:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023435Z" creationid="miurahr" creationdate="20210704T023435Z">
+        <seg>次に、次のコードをスタイルシートに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now that the whole preview card is a link, the text font may have changed.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020142Z" creationid="miurahr" creationdate="20210704T020142Z">
@@ -1098,6 +1218,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>トマトのグリルやキノコ、ベイクドビーンズなどもよくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On a new line below the code, place the closing tag &lt;code&gt;&amp;lt;/figure&amp;gt;&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023949Z" creationid="miurahr" creationdate="20210704T023949Z">
+        <seg>コードの下の新しい行に、終了タグ&lt;code&gt;&amp;lt;/figure&amp;gt;&lt;/code&gt;を配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On this card you'll learn about two more types of &lt;strong&gt;container&lt;/strong&gt; element: one that you can use to add a caption (some text like a title or short description) to a picture, and another for when you have extra stuff that doesn't really belong with the main information on a page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023917Z" creationid="miurahr" creationdate="20210704T023900Z">
+        <seg>このカードでは、さらに2種類の&lt;strong&gt;コンテナ&lt;/strong&gt;要素について学習します。1つはキャプション(タイトルや簡単な説明などのテキスト)を画像に追加するために使用するもので、もう1つはページのメイン情報に実際には属していないものがある場合に使用するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One kind of value you can set it to is &lt;code&gt;rotate&lt;/code&gt;, to make an element turn.</seg>
       </tuv>
       <tuv lang="ja">
@@ -1162,6 +1298,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>フォトコラージュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Picture of Tito with a caption</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024120Z" creationid="miurahr" creationdate="20210704T024120Z">
+        <seg>見出し付きのティートの画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pictures with captions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023903Z" creationid="miurahr" creationdate="20210704T023903Z">
+        <seg>キャプション付きの画像</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1386,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>影と動き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since more and more people browse the internet on their smartphones or tablets rather than on a computer, it's good practise to develop your website with this in mind.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023431Z" creationid="miurahr" creationdate="20210704T023431Z">
+        <seg>パソコンではなくスマートフォンやタブレットでインターネットを閲覧する人が増えているので、このことを念頭に置いてウェブサイトを開発するのは良いことだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1494,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;code&gt;figcaption&lt;/code&gt; element is your &lt;strong&gt;caption&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024057Z" creationid="miurahr" creationdate="20210704T024057Z">
+        <seg>&lt;code&gt;figcaption&lt;/code&gt;要素は、&lt;strong&gt;見出し&lt;/strong&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;code&gt;figure&lt;/code&gt; element acts as a sort of &lt;strong&gt;container&lt;/strong&gt; for your picture and its caption.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024139Z" creationid="miurahr" creationdate="20210704T024139Z">
+        <seg>&lt;code&gt;figure&lt;/code&gt;要素は、ピクチャとそのキャプションの一種の&lt;strong&gt;コンテナ&lt;/strong&gt;として機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;strong&gt;target&lt;/strong&gt; of the link will be the lightbox, which you set using the &lt;code&gt;id&lt;/code&gt;.</seg>
       </tuv>
       <tuv lang="ja">
@@ -1398,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The block contains new values for only some properties of the &lt;code&gt;nav ul&lt;/code&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023705Z" creationid="miurahr" creationdate="20210704T023705Z">
+        <seg>ブロックには、&lt;code&gt;nav ul&lt;/code&gt;メニューの一部のプロパティの新しい値のみが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The cards appear in the middle instead of over to the left</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020428Z" creationid="miurahr" creationdate="20210704T020428Z">
@@ -1446,10 +1630,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first line of code above checks what size the browser window is.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023439Z" creationid="miurahr" creationdate="20210704T023439Z">
+        <seg>上記のコードの最初の行は、ブラウザウィンドウのサイズをチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following code defines flex properties for menu items when the screen is bigger than 1600 pixels:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023822Z" creationid="miurahr" creationdate="20210704T023822Z">
+        <seg>次のコードは、画面が1600ピクセルより大きい場合のメニュー項目のflexプロパティを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The fourth number, called the &lt;strong&gt;alpha&lt;/strong&gt; value, defines how &lt;strong&gt;transparent&lt;/strong&gt; (or see-through) something is.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>&lt;strong&gt;アルファ&lt;/strong&gt; 値と呼ばれる4番目の数字は、 &lt;strong&gt;透明な&lt;/strong&gt; （またはシースルー）がどのようにあるかを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rest of the properties you defined previously for &lt;code&gt;nav ul&lt;/code&gt; will stay the same.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023716Z" creationid="miurahr" creationdate="20210704T023716Z">
+        <seg>The rest of the properties you defined previously for &lt;code&gt;nav ul&lt;/code&gt; will stay the same.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1674,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>アイルランドの天候は&lt;span class="specialText"&gt;非常に予測不可能です!&lt;/span&gt;どんな天候でも、天気が良い日でも&lt;span class="specialText"&gt;準備&lt;/span&gt;するのが一番です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The whole thing should look something like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024005Z" creationid="miurahr" creationdate="20210704T024005Z">
+        <seg>全体の外観は次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1770,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>シン・リジィ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows you to treat them as one unit when defining styles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024142Z" creationid="miurahr" creationdate="20210704T024142Z">
+        <seg>これにより、スタイルを定義するときにそれらを1つの単位として扱うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1982,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you code for mobile first, you instead choose default styles that are suitable for small screens such as smartphones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023426Z" creationid="miurahr" creationdate="20210704T023426Z">
+        <seg>最初にモバイル用にコーディングする場合は、代わりにスマートフォンなどの小さな画面に適した既定のスタイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever the window is wider than 1000 pixels, these new values will be applied instead of the ones you already defined for &lt;code&gt;nav ul&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023716Z" creationid="miurahr" creationdate="20210704T023716Z">
+        <seg>ウィンドウの幅が1000ピクセルを超える場合は常に、これらの新しい値が&lt;code&gt;nav ul&lt;/code&gt;に対してすでに定義した値の代わりに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With the CSS code above, your menu will be best suited to small screens.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T021656Z" creationid="miurahr" creationdate="20210704T021656Z">
@@ -1814,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can put any CSS rules you like into blocks like these to define different styles for different screen sizes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023836Z" creationid="miurahr" creationdate="20210704T023836Z">
+        <seg>任意のCSSルールをこのようなブロックに配置して、画面サイズごとに異なるスタイルを定義できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can put anything you like in between the link tags.</seg>
       </tuv>
       <tuv lang="ja">
@@ -1826,6 +2074,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>地方にはない花を見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use CSS code to style &lt;code&gt;figure&lt;/code&gt; and &lt;code&gt;figcaption&lt;/code&gt; as you would any other element using classes, IDs, or element selectors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024211Z" creationid="miurahr" creationdate="20210704T024211Z">
+        <seg>CSSコードを使用すると、クラス、ID、または要素セレクタを使用する他の要素と同様に、&lt;code&gt;figure&lt;/code&gt;および&lt;code&gt;figcaption&lt;/code&gt;のスタイルを設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,6 +2138,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020418Z" creationid="miurahr" creationdate="20210704T020418Z">
         <seg>カードがページの中央に移動していることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You then add extra code to make adjustments for bigger screens.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023428Z" creationid="miurahr" creationdate="20210704T023428Z">
+        <seg>次に、大きな画面に合わせて調整するためのコードを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2266,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>title: &lt;code&gt;rgba&lt;/code&gt;とは何ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: Why is this useful?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T024135Z" creationid="miurahr" creationdate="20210704T024135Z">
+        <seg>title: ナゼこれが役立つの?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>title: どのように機能しますか？</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T023701Z" creationid="miurahr" creationdate="20210704T023701Z">
+        <seg>title: どのように機能しますか？</seg>
       </tuv>
     </tu>
     <tu>
