@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.cardContainer { display: flex; flex-wrap: wrap; justify-content: space-around; padding: 10px; }</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020840Z" creationid="miurahr" creationdate="20210704T020840Z">
+        <seg>.cardContainer { display: flex; flex-wrap: wrap; justify-content: space-around; padding: 10px; }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a href="attractions.html#scCliffs" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="cliffs.JPG" class="smallPics"&gt; &lt;h3&gt;The Cliffs of Moher&lt;/h3&gt; &lt;p&gt;County Clare&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scBurren" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="ireland-2191310_640.jpg" class="smallPics"&gt; &lt;h3&gt;The Burren&lt;/h3&gt; &lt;p&gt;County Clare and Galway&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scAchill" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="achill.JPG" class="smallPics"&gt; &lt;h3&gt;Achill Island&lt;/h3&gt; &lt;p&gt;County Mayo&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scFota" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="monkey-2223271_640.jpg" class="smallPics"&gt; &lt;h3&gt;Fota Wildlife Park&lt;/h3&gt; &lt;p&gt;Fota Island, County Cork&lt;/p&gt; &lt;/article&gt; &lt;/a&gt; &lt;a href="attractions.html#scNewgrange" class="cardLink"&gt; &lt;article class="card "&gt; &lt;img src="newgrange-332864_640.jpg" class="smallPics"&gt; &lt;h3&gt;Newgrange Passage Tomb&lt;/h3&gt; &lt;p&gt;County Meath&lt;/p&gt; &lt;/article&gt; &lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>&lt;h3&gt;キツネザル!&lt;/h3&gt;&lt;img src="monkey-2223271_640. jpg" alt="Picture of a lemur" /&gt;&lt;p&gt;ちょっとしたおやつを楽しむキツネザル&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;strong&gt;&lt;code&gt;flex&lt;/code&gt;&lt;/strong&gt; is a pretty powerful layout tool that could fill a whole Sushi Card series of its own — you can learn more about it at &lt;a href="http://dojo.soy/html3-flex"&gt;dojo.soy/html3-flex&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021100Z" creationid="miurahr" creationdate="20210704T021100Z">
+        <seg>&lt;strong&gt;&lt;code&gt;flex&lt;/code&gt;&lt;/strong&gt;は非常に強力なレイアウトツールで、Sushi Cardシリーズ全体を埋め尽くすことができます。詳細については&lt;a href="dojo3-flex"&gt;http://dojo.soy/html.soy/html3-flex&lt;/a&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ライトボックスに次のCSSコードを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the following CSS code in your style sheet:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020838Z" creationid="miurahr" creationdate="20210704T020838Z">
+        <seg>スタイルシートに次のCSSコードを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +302,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cards arranged in two rows spaced evenly to fit the browser width</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020900Z" creationid="miurahr" creationdate="20210704T020900Z">
+        <seg>ブラウザの幅に合わせて2列に等間隔に配置されたカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cards arranged side by side with automatic width</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020910Z" creationid="miurahr" creationdate="20210704T020910Z">
+        <seg>自動幅で並べて配置されたカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the value of &lt;code&gt;justify-content&lt;/code&gt; to &lt;code&gt;flex-end&lt;/code&gt; and see what happens.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021044Z" creationid="miurahr" creationdate="20210704T021044Z">
+        <seg>&lt;code&gt;justify-content&lt;/code&gt;の値を&lt;code&gt;flex-end&lt;/code&gt;に変更して、何が起こるかを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chasing Cars</seg>
       </tuv>
       <tuv lang="ja">
@@ -318,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete the property &lt;code&gt;display: inline;&lt;/code&gt; from the list items.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021007Z" creationid="miurahr" creationdate="20210704T021007Z">
+        <seg>プロパティ&lt;code&gt;display:inline;&lt;/code&gt;をリスト項目から削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Design cool page layouts</seg>
       </tuv>
       <tuv lang="ja">
@@ -330,6 +386,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020537Z" creationid="miurahr" creationdate="20210704T020537Z">
         <seg>ブラウザウィンドウの端をドラッグしてページ幅を調整します。— 必ずカードが中央にあることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag the edge of your window to make the website wider and narrower, and watch how the cards move around to fit the window size, sometimes wrapping to the next line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020857Z" creationid="miurahr" creationdate="20210704T020857Z">
+        <seg>ウィンドウの端をドラッグしてWebサイトの幅を広げたり狭くしたりします。また、ウィンドウのサイズに合わせてカードが動き回り、場合によっては次の行に折り返される様子を確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +450,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>以前の &lt;code&gt;.card：hover&lt;/code&gt; CSSクラスを見つけて、次のように変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the CSS rules for the menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020923Z" creationid="miurahr" creationdate="20210704T020923Z">
+        <seg>メニューのCSSルールを検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +686,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a navigation menu at the top of your page, that's another place you can use this trick.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020914Z" creationid="miurahr" creationdate="20210704T020914Z">
+        <seg>ページの上部にナビゲーションメニューがある場合、それはこのトリックを使用できる別の場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you prefer, you can try it out with my website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020921Z" creationid="miurahr" creationdate="20210704T020921Z">
+        <seg>よろしければ、私のウェブサイトで試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you prefer, you can work with &lt;a href="http://dojo.soy/html3-website-start"&gt;this trinket&lt;/a&gt;{:target="_blank"}, which is ready to use.</seg>
       </tuv>
       <tuv lang="ja">
@@ -634,6 +722,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>小さなカード効果を作成するためのスタイル設定を含むイメージとテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In my website, that's the blocks &lt;code&gt;nav ul&lt;/code&gt;, &lt;code&gt;nav ul li&lt;/code&gt;, and &lt;code&gt;nav ul li a&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020953Z" creationid="miurahr" creationdate="20210704T020953Z">
+        <seg>私のウェブサイトでは、ブロック&lt;code&gt;nav ul&lt;/code&gt;、&lt;code&gt;nav ul li&lt;/code&gt;、および&lt;code&gt;nav ul li a&lt;/code&gt;が該当します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +810,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>赤、緑、青の3つの数字（ &lt;code&gt;0&lt;/code&gt; から &lt;code&gt;255&lt;/code&gt;）があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's not going to be an &lt;code&gt;article&lt;/code&gt; or a &lt;code&gt;section&lt;/code&gt;, but one called &lt;code&gt;div&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020831Z" creationid="miurahr" creationdate="20210704T020831Z">
+        <seg>&lt;code&gt;article&lt;/code&gt;や&lt;code&gt;section&lt;/code&gt;ではなく、&lt;code&gt;div&lt;/code&gt;と呼ばれるものになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +914,30 @@
       </tuv>
       <tuv lang="ja">
         <seg>たぶんあなたはただの写真とテキストがほしいと思うかもしれません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu with items aligned to the left</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021016Z" creationid="miurahr" creationdate="20210704T021016Z">
+        <seg>左側に項目が配置されたメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu with items aligned to the right</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021052Z" creationid="miurahr" creationdate="20210704T021052Z">
+        <seg>右側に項目が配置されたメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu with items evenly spaced</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021050Z" creationid="miurahr" creationdate="20210704T021050Z">
+        <seg>アイテムが等間隔に配置されたメニュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Or change it to &lt;code&gt;space-around&lt;/code&gt; to make the menu items evenly spaced, just like you did for the cards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021046Z" creationid="miurahr" creationdate="20210704T021046Z">
+        <seg>または、&lt;code&gt;space-around&lt;/code&gt;に変更して、カードの場合と同様に、メニュー項目を等間隔に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Others are &lt;code&gt;translateY&lt;/code&gt;, which moves something up or down, and &lt;code&gt;translateX&lt;/code&gt;, for movement from side to side.</seg>
       </tuv>
       <tuv lang="ja">
@@ -1018,6 +1154,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>画像のサムネイルとテキストを表示するプレビューカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put all of the card links you just made into a new container element.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020819Z" creationid="miurahr" creationdate="20210704T020819Z">
+        <seg>先ほど作成したすべてのカード・リンクを新しいコンテナー・エレメントに入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1250,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>リンクに変換されたテキストと画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks to &lt;strong&gt;Flex&lt;/strong&gt;, your cards are now displayed side by side!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020852Z" creationid="miurahr" creationdate="20210704T020844Z">
+        <seg>&lt;strong&gt;Flex&lt;/strong&gt;のおかげで、カードが並べて表示されるようになりました!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cool thing about &lt;code&gt;flex&lt;/code&gt; is you can control the layout with the property &lt;code&gt;justify-content&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021038Z" creationid="miurahr" creationdate="20210704T021038Z">
+        <seg>&lt;code&gt;flex&lt;/code&gt;のクールなところは、&lt;code&gt;justify-content&lt;/code&gt;というプロパティーでレイアウトを制御できることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The easiest way to get around outside of the cities is by car.</seg>
       </tuv>
       <tuv lang="ja">
@@ -1250,6 +1410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210704T020359Z" creationid="miurahr" creationdate="20210704T020359Z">
         <seg>次に、要素を一列に並べて配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, in the list &lt;code&gt;nav ul&lt;/code&gt;, add in:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021013Z" creationid="miurahr" creationdate="20210704T021013Z">
+        <seg>次に、リスト&lt;code&gt;nav ul&lt;/code&gt;に以下を追加します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1490,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>このソーセージ、マッシュポテト、グレービーソースのクラシックな朝食はアイルランド特有の組みあわせではないが、独特なのはアイルランドのソーセージです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a general-purpose container you can use for grouping things and making nice layouts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020835Z" creationid="miurahr" creationdate="20210704T020835Z">
+        <seg>これは、ものをグループ化したり、素敵なレイアウトを作成するために使用できる汎用コンテナです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try deleting the &lt;code&gt;width&lt;/code&gt; and &lt;code&gt;height&lt;/code&gt; properties from the &lt;code&gt;.card&lt;/code&gt; class and see what happens: &lt;code&gt;flex&lt;/code&gt; cleverly fits the cards together like a jigsaw puzzle, keeping an even height across everything that's in the same row.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020908Z" creationid="miurahr" creationdate="20210704T020908Z">
+        <seg>&lt;code&gt;.card&lt;/code&gt;クラスから&lt;code&gt;width&lt;/code&gt;および&lt;code&gt;height&lt;/code&gt;プロパティを削除してみて、何が起こるかを確認してください。&lt;code&gt;flex&lt;/code&gt;はジグソーパズルのようにうまくカードをつなぎ合わせ、同じ列にあるすべてのものの高さを均等に保ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Try out different values in the &lt;code&gt;translate&lt;/code&gt; function!</seg>
       </tuv>
       <tuv lang="ja">
@@ -1442,6 +1626,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>https://en.wikipedia.org/wiki/Irelandの詳細については、&lt;a href="Ireland"&gt;Wikipedia&lt;/a&gt;をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voilà!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020849Z" creationid="miurahr" creationdate="20210704T020843Z">
+        <seg>やった!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You end up with pretty much the same menu, right?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T021019Z" creationid="miurahr" creationdate="20210704T021019Z">
+        <seg>ほとんど同じメニューになりますよね?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You go with whatever page you have pictures on!</seg>
       </tuv>
       <tuv lang="ja">
@@ -1586,6 +1786,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>キリンの畑を通る道を歩くと、近くの木にキツネザルがぶら下がっていて、ペンギンの群れが通り過ぎるのが見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your menu needs to be composed of list elements( (&lt;code&gt;li&lt;/code&gt;) for this next bit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210704T020918Z" creationid="miurahr" creationdate="20210704T020918Z">
+        <seg>メニューは、この次のビットのリスト要素((&lt;code&gt;li&lt;/code&gt;))で構成されている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
