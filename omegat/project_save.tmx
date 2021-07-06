@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>&amp;lt;aside class="sideNoteStyle"&amp;gt; &amp;lt;h2&amp;gt;Getting around&amp;lt;/h2&amp;gt; &amp;lt;h3&amp;gt;Train and bus&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;You can get to most of the major towns by train from Dublin.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210704T143023Z" creationid="miurahr" creationdate="20210704T143023Z">
-        <seg>&amp;lt;aside class="sideNoteStyle"&amp;gt; &amp;lt;h2&amp;gt;Getting around&amp;lt;/h2&amp;gt; &amp;lt;h3&amp;gt;Train and bus&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;You can get to most of the major towns by train from Dublin.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210706T113046Z" creationid="miurahr" creationdate="20210704T143023Z">
+        <seg>&amp;lt;aside class="sideNoteStyle"&amp;gt;&amp;lt;h2&amp;gt;観光&amp;lt;/h2&amp;gt;&amp;lt;h3&amp;gt;列車およびバス&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;ダブリンから電車でほとんどの主要都市に行けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1810,6 +1810,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>人気のある場所や観光地を巡るツアーをしているバスがたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many buses that do tours to popular locations and tourist attractions.&amp;lt;/p&amp;gt; &amp;lt;h3&amp;gt;Car&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;The easiest way to get around outside of the cities is by car.&amp;lt;/p&amp;gt; &amp;lt;/aside&amp;gt; &amp;lt;aside class="sideNoteStyle"&amp;gt; &amp;lt;h2&amp;gt;Weather&amp;lt;/h2&amp;gt; &amp;lt;p&amp;gt;The weather in Ireland is &amp;lt;span class="specialText"&amp;gt;very unpredictable!&amp;lt;/span&amp;gt; It's best to &amp;lt;span class="specialText"&amp;gt;be prepared&amp;lt;/span&amp;gt; for any kind of weather, even if it's a nice day!&amp;lt;/p&amp;gt; &amp;lt;/aside&amp;gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210706T112917Z" creationid="miurahr" creationdate="20210706T112917Z">
+        <seg>人気のある場所や観光地へのツアーを行うバスはたくさんあります。&amp;lt;/p&amp;gt; &amp;lt;h3&amp;gt;自動車&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;都市の外を移動する最も簡単な方法は車です。&amp;lt;/p&amp;gt; &amp;lt;/aside&amp;gt; &amp;lt;aside class="sideNoteStyle"&amp;gt; &amp;lt;h2&amp;gt;天候&amp;lt;/h2&amp;gt; &amp;lt;p&amp;gt;アイルランドの天候は、 &amp;lt;span class="specialText"&amp;gt;非常に予測不能です!&amp;lt;/span&amp;gt; どんな天候に対しても準備するのが &amp;lt;span class="specialText"&amp;gt;最善&amp;lt;/span&amp;gt;です!&amp;lt;/p&amp;gt; &amp;lt;/aside&amp;gt;</seg>
       </tuv>
     </tu>
     <tu>
